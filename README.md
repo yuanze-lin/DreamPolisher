@@ -4,4 +4,4 @@
 
 Official implementation of "Text-Driven Image Editing via Learnable Regions" 
 
-[Yuanze Lin](https://yuanze-lin.me/), [Ronald Clark]([https://wenz116.github.io/](https://www.ron-clark.com/)), [Philip Torr]([https://sites.google.com/site/yihsuantsai/](https://eng.ox.ac.uk/people/philip-torr/)https://eng.ox.ac.uk/people/philip-torr/)
+[Yuanze Lin](https://yuanze-lin.me/), [Ronald Clark](https://www.ron-clark.com/), [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/)
